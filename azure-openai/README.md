@@ -1,0 +1,5 @@
+```
+export AZURE_OPENAI_API_KEY=
+export AZURE_OPENAI_ENDPOINT=
+export COMPLETIONS_MODEL=gpt-4o
+```
